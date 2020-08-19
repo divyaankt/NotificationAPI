@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Divyaank\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Divyaank\\.nuget\\packages"
+    ]
+  }
+}
